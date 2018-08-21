@@ -1,2 +1,2 @@
 # TapTapForNetflix
-An iOS jailbreak tweak to enable double tapping to skip +/- 10 seconds
+An iOS jailbreak tweak to enable double tapping to skip +/- 10 seconds and force touching to play/pause

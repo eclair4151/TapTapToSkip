@@ -1,9 +1,9 @@
 Package: com.shemeshapps.taptapnetflix
 Name: TapTap for Netflix
 Depends: mobilesubstrate
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
-Description: Enables double tap to skip +/- 10 seconds on the Netflix app. There are no settings to configure.
+Description: Enables double tap to skip +/- 10 seconds on the Netflix app. There are no settings to configure. Check it out on Github! https://github.com/eclair4151/TapTapForNetflix
 Maintainer: ShemeshApps
 Author: ShemeshApps
 Section: Tweaks

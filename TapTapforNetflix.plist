@@ -1,1 +1,1 @@
-{ Filter = { Bundles = ( "com.netflix.Netflix" ); }; }
+{ Filter = { Bundles = ( "com.netflix.Netflix", "com.amazon.aiv.AIVApp", "com.crunchyroll.iphone", "com.google.ios.youtube" ); }; }
